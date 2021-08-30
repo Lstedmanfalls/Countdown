@@ -1,4 +1,4 @@
-var futureDate = new Date("Aug 30, 2021 11:34:50").getTime();
+var futureDate = new Date("Aug 30, 2021 12:07:00").getTime();
 var color = setInterval(setColor, 1000);
 
 function setColor() {
