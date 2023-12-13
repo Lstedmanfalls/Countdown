@@ -29,4 +29,4 @@ const startTimer = () => {
     color = setInterval(setColor, 1000);
 }
 
-startTimer();
+// startTimer();
